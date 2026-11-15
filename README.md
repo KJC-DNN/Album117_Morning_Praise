@@ -16,7 +16,7 @@ Seven prayer letters of morning praise, presence, and rest under the Shepherd. T
 
 # Published
 1. GitHub: https://github.com/KJC-DNN/Album117_Morning_Praise/releases/tag/117.0.0
-2. Archive: https://archive.org/details/album-117-morning-praise-main-cover
+2. Archive: album-117-morning-praise-main-cover
 3. Zenodo: https://doi.org/10.5281/zenodo.24242049
 
 # Instrumental
